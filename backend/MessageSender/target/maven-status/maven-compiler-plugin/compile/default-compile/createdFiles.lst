@@ -1,0 +1,6 @@
+controller\WebSocketConfig.class
+service\MessageSenderService.class
+model\MessageMixIn.class
+model\Message.class
+controller\MainController.class
+controller\MessageSenderController.class
